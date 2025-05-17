@@ -1,0 +1,6 @@
+selenium
+beautifulsoup4
+googlesearch-python
+pymongo
+webdriver-manager
+requests
